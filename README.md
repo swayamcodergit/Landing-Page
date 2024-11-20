@@ -1,4 +1,4 @@
-# Landing Page with HTML Animations
+# HTML Landing Page
 
 ## Project Description
 
